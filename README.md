@@ -1,4 +1,6 @@
-<h1 align="center">Sidharth Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sidharth%20Kumar&fontSize=40" />
+</p>
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Build+with+code.+Shared+with+love."/></h3>
 
@@ -13,7 +15,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sidhaaarth07&theme=tokyonight" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=sidhaaarth07&theme=dark" alt="streak"/>
 </p>
 
 ## 🛠️ Languages & Tools
@@ -21,6 +23,11 @@
 ### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### Programming
@@ -65,3 +72,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align=center> Designed & Developed by Sidharth </p>
